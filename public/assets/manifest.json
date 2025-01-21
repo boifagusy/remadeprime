@@ -1,0 +1,18 @@
+{
+    "name": "Ricky Pay Bills Payment",
+    "short_name": "Ricky Pay",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0d5afd",
+    "theme_color": "#0d5afd",
+    "categories": ["mobile", "multipurpose", "blog", "ecommerce", "pwa"],
+    "orientation": "portrait",
+    "description": "Ricky Pay Bills Payment",
+    "icons": [{
+        "src": "../../uploads/touch.png",
+        "type": "image/png",
+        "sizes": "72x72",
+        "purpose": "any maskable"
+      }
+    ]
+  }
